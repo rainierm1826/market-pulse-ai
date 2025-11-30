@@ -1,0 +1,22 @@
+{
+  "free": [
+    "Top 5 stocks & crypto",
+    "3 sentiment searches/day",
+    "Basic sentiment overview"
+  ],
+  "pro": [
+    "Unlimited searches",
+    "All stocks & crypto",
+    "30-day sentiment history",
+    "Watchlist up to 20",
+    "Source transparency",
+    "Real-time alerts"
+  ],
+  "premium": [
+    "Everything in Pro",
+    "Unlimited watchlist",
+    "API access",
+    "Early feature access",
+    "Advanced AI insights"
+  ]
+}

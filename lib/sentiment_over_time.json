@@ -1,0 +1,242 @@
+[
+  { "date": "2025-01-01", "positive": 31, "neutral": 30, "negative": 33,
+    "sources": {
+      "twitter":  { "positive": 32, "neutral": 29, "negative": 33 },
+      "reddit":   { "positive": 30, "neutral": 31, "negative": 32 },
+      "facebook": { "positive": 28, "neutral": 34, "negative": 30 },
+      "yahoo":    { "positive": 34, "neutral": 28, "negative": 31 }
+    }
+  },
+  { "date": "2025-01-02", "positive": 56, "neutral": 30, "negative": 15,
+    "sources": {
+      "twitter":  { "positive": 58, "neutral": 28, "negative": 14 },
+      "reddit":   { "positive": 52, "neutral": 32, "negative": 16 },
+      "facebook": { "positive": 50, "neutral": 34, "negative": 16 },
+      "yahoo":    { "positive": 60, "neutral": 26, "negative": 14 }
+    }
+  },
+  { "date": "2025-01-03", "positive": 47, "neutral": 30, "negative": 27,
+    "sources": {
+      "twitter":  { "positive": 49, "neutral": 29, "negative": 27 },
+      "reddit":   { "positive": 45, "neutral": 31, "negative": 24 },
+      "facebook": { "positive": 43, "neutral": 33, "negative": 24 },
+      "yahoo":    { "positive": 50, "neutral": 27, "negative": 26 }
+    }
+  },
+  { "date": "2025-01-04", "positive": 43, "neutral": 30, "negative": 21,
+    "sources": {
+      "twitter":  { "positive": 44, "neutral": 29, "negative": 21 },
+      "reddit":   { "positive": 41, "neutral": 31, "negative": 22 },
+      "facebook": { "positive": 40, "neutral": 34, "negative": 20 },
+      "yahoo":    { "positive": 45, "neutral": 27, "negative": 22 }
+    }
+  },
+  { "date": "2025-01-05", "positive": 49, "neutral": 30, "negative": 19,
+    "sources": {
+      "twitter":  { "positive": 50, "neutral": 28, "negative": 19 },
+      "reddit":   { "positive": 46, "neutral": 32, "negative": 20 },
+      "facebook": { "positive": 45, "neutral": 34, "negative": 21 },
+      "yahoo":    { "positive": 52, "neutral": 26, "negative": 18 }
+    }
+  },
+  { "date": "2025-01-06", "positive": 55, "neutral": 30, "negative": 24,
+    "sources": {
+      "twitter":  { "positive": 56, "neutral": 28, "negative": 24 },
+      "reddit":   { "positive": 52, "neutral": 32, "negative": 23 },
+      "facebook": { "positive": 50, "neutral": 33, "negative": 25 },
+      "yahoo":    { "positive": 58, "neutral": 26, "negative": 24 }
+    }
+  },
+  { "date": "2025-01-07", "positive": 46, "neutral": 30, "negative": 12,
+    "sources": {
+      "twitter":  { "positive": 47, "neutral": 29, "negative": 12 },
+      "reddit":   { "positive": 44, "neutral": 31, "negative": 13 },
+      "facebook": { "positive": 42, "neutral": 33, "negative": 14 },
+      "yahoo":    { "positive": 48, "neutral": 28, "negative": 11 }
+    }
+  },
+  { "date": "2025-01-08", "positive": 39, "neutral": 30, "negative": 15,
+    "sources": {
+      "twitter":  { "positive": 40, "neutral": 29, "negative": 15 },
+      "reddit":   { "positive": 37, "neutral": 31, "negative": 16 },
+      "facebook": { "positive": 36, "neutral": 33, "negative": 16 },
+      "yahoo":    { "positive": 41, "neutral": 28, "negative": 14 }
+    }
+  },
+  { "date": "2025-01-09", "positive": 31, "neutral": 30, "negative": 23,
+    "sources": {
+      "twitter":  { "positive": 32, "neutral": 29, "negative": 23 },
+      "reddit":   { "positive": 30, "neutral": 31, "negative": 22 },
+      "facebook": { "positive": 29, "neutral": 34, "negative": 22 },
+      "yahoo":    { "positive": 33, "neutral": 28, "negative": 24 }
+    }
+  },
+  { "date": "2025-01-10", "positive": 51, "neutral": 30, "negative": 25,
+    "sources": {
+      "twitter":  { "positive": 52, "neutral": 28, "negative": 25 },
+      "reddit":   { "positive": 48, "neutral": 32, "negative": 24 },
+      "facebook": { "positive": 47, "neutral": 34, "negative": 25 },
+      "yahoo":    { "positive": 54, "neutral": 26, "negative": 24 }
+    }
+  },
+  { "date": "2025-01-11", "positive": 55, "neutral": 30, "negative": 13,
+    "sources": {
+      "twitter":  { "positive": 56, "neutral": 28, "negative": 13 },
+      "reddit":   { "positive": 52, "neutral": 32, "negative": 14 },
+      "facebook": { "positive": 50, "neutral": 34, "negative": 16 },
+      "yahoo":    { "positive": 58, "neutral": 26, "negative": 12 }
+    }
+  },
+  { "date": "2025-01-12", "positive": 44, "neutral": 30, "negative": 36,
+    "sources": {
+      "twitter":  { "positive": 45, "neutral": 29, "negative": 36 },
+      "reddit":   { "positive": 41, "neutral": 31, "negative": 35 },
+      "facebook": { "positive": 40, "neutral": 33, "negative": 35 },
+      "yahoo":    { "positive": 46, "neutral": 28, "negative": 37 }
+    }
+  },
+  { "date": "2025-01-13", "positive": 42, "neutral": 30, "negative": 12,
+    "sources": {
+      "twitter":  { "positive": 43, "neutral": 29, "negative": 12 },
+      "reddit":   { "positive": 39, "neutral": 31, "negative": 13 },
+      "facebook": { "positive": 38, "neutral": 33, "negative": 14 },
+      "yahoo":    { "positive": 44, "neutral": 28, "negative": 11 }
+    }
+  },
+  { "date": "2025-01-14", "positive": 48, "neutral": 30, "negative": 39,
+    "sources": {
+      "twitter":  { "positive": 49, "neutral": 29, "negative": 39 },
+      "reddit":   { "positive": 45, "neutral": 31, "negative": 38 },
+      "facebook": { "positive": 44, "neutral": 33, "negative": 38 },
+      "yahoo":    { "positive": 50, "neutral": 27, "negative": 40 }
+    }
+  },
+  { "date": "2025-01-15", "positive": 21, "neutral": 30, "negative": 10,
+    "sources": {
+      "twitter":  { "positive": 22, "neutral": 29, "negative": 10 },
+      "reddit":   { "positive": 19, "neutral": 31, "negative": 11 },
+      "facebook": { "positive": 18, "neutral": 34, "negative": 12 },
+      "yahoo":    { "positive": 23, "neutral": 28, "negative": 9 }
+    }
+  },
+  { "date": "2025-01-16", "positive": 23, "neutral": 30, "negative": 21,
+    "sources": {
+      "twitter":  { "positive": 24, "neutral": 29, "negative": 21 },
+      "reddit":   { "positive": 21, "neutral": 31, "negative": 22 },
+      "facebook": { "positive": 20, "neutral": 33, "negative": 23 },
+      "yahoo":    { "positive": 25, "neutral": 28, "negative": 20 }
+    }
+  },
+  { "date": "2025-01-17", "positive": 29, "neutral": 30, "negative": 14,
+    "sources": {
+      "twitter":  { "positive": 30, "neutral": 29, "negative": 14 },
+      "reddit":   { "positive": 27, "neutral": 31, "negative": 15 },
+      "facebook": { "positive": 26, "neutral": 33, "negative": 16 },
+      "yahoo":    { "positive": 31, "neutral": 28, "negative": 13 }
+    }
+  },
+  { "date": "2025-01-18", "positive": 57, "neutral": 30, "negative": 19,
+    "sources": {
+      "twitter":  { "positive": 58, "neutral": 28, "negative": 19 },
+      "reddit":   { "positive": 53, "neutral": 32, "negative": 20 },
+      "facebook": { "positive": 52, "neutral": 34, "negative": 21 },
+      "yahoo":    { "positive": 60, "neutral": 26, "negative": 18 }
+    }
+  },
+  { "date": "2025-01-19", "positive": 27, "neutral": 30, "negative": 10,
+    "sources": {
+      "twitter":  { "positive": 28, "neutral": 29, "negative": 10 },
+      "reddit":   { "positive": 25, "neutral": 31, "negative": 11 },
+      "facebook": { "positive": 24, "neutral": 33, "negative": 12 },
+      "yahoo":    { "positive": 29, "neutral": 28, "negative": 9 }
+    }
+  },
+  { "date": "2025-01-20", "positive": 51, "neutral": 30, "negative": 26,
+    "sources": {
+      "twitter":  { "positive": 52, "neutral": 28, "negative": 26 },
+      "reddit":   { "positive": 48, "neutral": 32, "negative": 27 },
+      "facebook": { "positive": 47, "neutral": 34, "negative": 28 },
+      "yahoo":    { "positive": 54, "neutral": 26, "negative": 25 }
+    }
+  },
+  { "date": "2025-01-21", "positive": 51, "neutral": 30, "negative": 37,
+    "sources": {
+      "twitter":  { "positive": 52, "neutral": 29, "negative": 37 },
+      "reddit":   { "positive": 48, "neutral": 31, "negative": 36 },
+      "facebook": { "positive": 47, "neutral": 33, "negative": 36 },
+      "yahoo":    { "positive": 54, "neutral": 27, "negative": 38 }
+    }
+  },
+  { "date": "2025-01-22", "positive": 26, "neutral": 30, "negative": 38,
+    "sources": {
+      "twitter":  { "positive": 27, "neutral": 29, "negative": 38 },
+      "reddit":   { "positive": 24, "neutral": 31, "negative": 39 },
+      "facebook": { "positive": 23, "neutral": 33, "negative": 40 },
+      "yahoo":    { "positive": 28, "neutral": 28, "negative": 37 }
+    }
+  },
+  { "date": "2025-01-23", "positive": 45, "neutral": 30, "negative": 19,
+    "sources": {
+      "twitter":  { "positive": 46, "neutral": 29, "negative": 19 },
+      "reddit":   { "positive": 42, "neutral": 31, "negative": 20 },
+      "facebook": { "positive": 41, "neutral": 33, "negative": 21 },
+      "yahoo":    { "positive": 48, "neutral": 27, "negative": 18 }
+    }
+  },
+  { "date": "2025-01-24", "positive": 51, "neutral": 30, "negative": 19,
+    "sources": {
+      "twitter":  { "positive": 52, "neutral": 28, "negative": 19 },
+      "reddit":   { "positive": 48, "neutral": 32, "negative": 20 },
+      "facebook": { "positive": 47, "neutral": 34, "negative": 21 },
+      "yahoo":    { "positive": 54, "neutral": 26, "negative": 18 }
+    }
+  },
+  { "date": "2025-01-25", "positive": 52, "neutral": 30, "negative": 26,
+    "sources": {
+      "twitter":  { "positive": 53, "neutral": 29, "negative": 26 },
+      "reddit":   { "positive": 49, "neutral": 31, "negative": 27 },
+      "facebook": { "positive": 48, "neutral": 33, "negative": 28 },
+      "yahoo":    { "positive": 55, "neutral": 27, "negative": 25 }
+    }
+  },
+  { "date": "2025-01-26", "positive": 22, "neutral": 30, "negative": 19,
+    "sources": {
+      "twitter":  { "positive": 23, "neutral": 29, "negative": 19 },
+      "reddit":   { "positive": 20, "neutral": 31, "negative": 20 },
+      "facebook": { "positive": 19, "neutral": 33, "negative": 21 },
+      "yahoo":    { "positive": 24, "neutral": 28, "negative": 18 }
+    }
+  },
+  { "date": "2025-01-27", "positive": 35, "neutral": 30, "negative": 29,
+    "sources": {
+      "twitter":  { "positive": 36, "neutral": 29, "negative": 29 },
+      "reddit":   { "positive": 32, "neutral": 31, "negative": 30 },
+      "facebook": { "positive": 31, "neutral": 33, "negative": 31 },
+      "yahoo":    { "positive": 37, "neutral": 28, "negative": 28 }
+    }
+  },
+  { "date": "2025-01-28", "positive": 33, "neutral": 30, "negative": 38,
+    "sources": {
+      "twitter":  { "positive": 34, "neutral": 29, "negative": 38 },
+      "reddit":   { "positive": 30, "neutral": 31, "negative": 39 },
+      "facebook": { "positive": 29, "neutral": 33, "negative": 40 },
+      "yahoo":    { "positive": 35, "neutral": 28, "negative": 37 }
+    }
+  },
+  { "date": "2025-01-29", "positive": 53, "neutral": 30, "negative": 16,
+    "sources": {
+      "twitter":  { "positive": 54, "neutral": 28, "negative": 16 },
+      "reddit":   { "positive": 50, "neutral": 32, "negative": 17 },
+      "facebook": { "positive": 49, "neutral": 34, "negative": 18 },
+      "yahoo":    { "positive": 56, "neutral": 26, "negative": 15 }
+    }
+  },
+  { "date": "2025-01-30", "positive": 25, "neutral": 30, "negative": 12,
+    "sources": {
+      "twitter":  { "positive": 26, "neutral": 29, "negative": 12 },
+      "reddit":   { "positive": 22, "neutral": 31, "negative": 13 },
+      "facebook": { "positive": 21, "neutral": 34, "negative": 14 },
+      "yahoo":    { "positive": 27, "neutral": 28, "negative": 11 }
+    }
+  }
+]

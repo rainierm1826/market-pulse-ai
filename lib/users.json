@@ -1,0 +1,72 @@
+[
+  {
+    "id": "user_001",
+    "name": "Alicia Santos",
+    "email": "alicia.santos@example.com",
+    "password": "password123",
+    "subscription": "Free"
+  },
+  {
+    "id": "user_002",
+    "name": "Mark Reyes",
+    "email": "mark.reyes@example.com",
+    "password": "mark123",
+    "subscription": "Premium"
+  },
+  {
+    "id": "user_003",
+    "name": "Julia Hernandez",
+    "email": "julia.hernandez@example.com",
+    "password": "julia456",
+    "subscription": "Free"
+  },
+  {
+    "id": "user_004",
+    "name": "Christian Dela Cruz",
+    "email": "christian.dc@example.com",
+    "password": "christian789",
+    "subscription": "Pro"
+  },
+  {
+    "id": "user_005",
+    "name": "Patricia Lopez",
+    "email": "patricia.lopez@example.com",
+    "password": "patricia123",
+    "subscription": "Free"
+  },
+  {
+    "id": "user_006",
+    "name": "Ethan Villanueva",
+    "email": "ethan.v@example.com",
+    "password": "ethan111",
+    "subscription": "Pro"
+  },
+  {
+    "id": "user_007",
+    "name": "Bianca Ramos",
+    "email": "bianca.ramos@example.com",
+    "password": "bianca321",
+    "subscription": "Premium"
+  },
+  {
+    "id": "user_008",
+    "name": "Daniel Torres",
+    "email": "daniel.torres@example.com",
+    "password": "daniel000",
+    "subscription": "Free"
+  },
+  {
+    "id": "user_009",
+    "name": "Sophia Bautista",
+    "email": "sophia.b@example.com",
+    "password": "sophia555",
+    "subscription": "Pro"
+  },
+  {
+    "id": "user_010",
+    "name": "Leo Fernandez",
+    "email": "leo.fernandez@example.com",
+    "password": "leo888",
+    "subscription": "Pro"
+  }
+]

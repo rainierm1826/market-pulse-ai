@@ -1,0 +1,1502 @@
+[
+  {
+    "symbol": "YAZY",
+    "name": "YAZY Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "KXSJV",
+    "name": "KXSJV Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "VBJSH",
+    "name": "VBJSH Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "OXS",
+    "name": "OXS Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "TRMMF",
+    "name": "TRMMF Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "LFZKA",
+    "name": "LFZKA Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "WLT",
+    "name": "WLT Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "TTZMX",
+    "name": "TTZMX Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "HXU",
+    "name": "HXU Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "NCM",
+    "name": "NCM Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "TFKIN",
+    "name": "TFKIN Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "FHLH",
+    "name": "FHLH Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "DPOK",
+    "name": "DPOK Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "MZA",
+    "name": "MZA Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "GUH",
+    "name": "GUH Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "XLZT",
+    "name": "XLZT Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "LJREJ",
+    "name": "LJREJ Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "EWA",
+    "name": "EWA Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "ZYZ",
+    "name": "ZYZ Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "SDVRT",
+    "name": "SDVRT Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "ZWWCW",
+    "name": "ZWWCW Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "GOE",
+    "name": "GOE Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "PUM",
+    "name": "PUM Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "DWGZ",
+    "name": "DWGZ Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "VPX",
+    "name": "VPX Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "WOZHM",
+    "name": "WOZHM Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "MUTV",
+    "name": "MUTV Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "PZR",
+    "name": "PZR Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "JDRMF",
+    "name": "JDRMF Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "LYW",
+    "name": "LYW Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "SWYC",
+    "name": "SWYC Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "OXG",
+    "name": "OXG Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "HSOJO",
+    "name": "HSOJO Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "YXK",
+    "name": "YXK Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "AAG",
+    "name": "AAG Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "YGDXH",
+    "name": "YGDXH Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "PXMJ",
+    "name": "PXMJ Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "CRQKR",
+    "name": "CRQKR Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "HPT",
+    "name": "HPT Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "HWGE",
+    "name": "HWGE Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "OIIG",
+    "name": "OIIG Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "YJM",
+    "name": "YJM Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "EUK",
+    "name": "EUK Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "ONOTI",
+    "name": "ONOTI Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "TXV",
+    "name": "TXV Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "EMYN",
+    "name": "EMYN Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "JOI",
+    "name": "JOI Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "IPX",
+    "name": "IPX Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "OWMMR",
+    "name": "OWMMR Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "HJEJP",
+    "name": "HJEJP Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "UOEIT",
+    "name": "UOEIT Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "GKUF",
+    "name": "GKUF Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "GMO",
+    "name": "GMO Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "PTR",
+    "name": "PTR Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "EYBD",
+    "name": "EYBD Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "MTXC",
+    "name": "MTXC Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "BFYT",
+    "name": "BFYT Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "YZWL",
+    "name": "YZWL Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "ADH",
+    "name": "ADH Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "KFGUF",
+    "name": "KFGUF Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "NFN",
+    "name": "NFN Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "XJPWC",
+    "name": "XJPWC Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "JLNP",
+    "name": "JLNP Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "JYPZK",
+    "name": "JYPZK Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "IQQU",
+    "name": "IQQU Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "EEYG",
+    "name": "EEYG Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "IBOL",
+    "name": "IBOL Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "XUVJC",
+    "name": "XUVJC Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "TXEP",
+    "name": "TXEP Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "WVMO",
+    "name": "WVMO Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "EJHRT",
+    "name": "EJHRT Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "NUM",
+    "name": "NUM Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "IZZ",
+    "name": "IZZ Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "KUZQ",
+    "name": "KUZQ Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "WIT",
+    "name": "WIT Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "UCW",
+    "name": "UCW Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "PLZGB",
+    "name": "PLZGB Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "PTMM",
+    "name": "PTMM Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "IMSTU",
+    "name": "IMSTU Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "JJTOP",
+    "name": "JJTOP Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "HSYE",
+    "name": "HSYE Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "NEJYD",
+    "name": "NEJYD Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "STOHY",
+    "name": "STOHY Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "KHZ",
+    "name": "KHZ Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "MDD",
+    "name": "MDD Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "FMU",
+    "name": "FMU Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "NLTY",
+    "name": "NLTY Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "KIWM",
+    "name": "KIWM Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "AQQQ",
+    "name": "AQQQ Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "NVEZL",
+    "name": "NVEZL Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "GWQX",
+    "name": "GWQX Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "NVUB",
+    "name": "NVUB Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "IINL",
+    "name": "IINL Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "SKDM",
+    "name": "SKDM Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "PDKT",
+    "name": "PDKT Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "RXWB",
+    "name": "RXWB Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "ERXW",
+    "name": "ERXW Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "SBG",
+    "name": "SBG Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "UBU",
+    "name": "UBU Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "QNWLC",
+    "name": "QNWLC Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "RSPHO",
+    "name": "RSPHO Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "ZGEF",
+    "name": "ZGEF Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "ZYTX",
+    "name": "ZYTX Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "YOAT",
+    "name": "YOAT Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "LHA",
+    "name": "LHA Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "YDMR",
+    "name": "YDMR Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "BAG",
+    "name": "BAG Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "GOFWJ",
+    "name": "GOFWJ Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "QRWGH",
+    "name": "QRWGH Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "CXKU",
+    "name": "CXKU Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "NGWM",
+    "name": "NGWM Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "YQY",
+    "name": "YQY Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "KDPVV",
+    "name": "KDPVV Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "RWSSG",
+    "name": "RWSSG Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "TWBIQ",
+    "name": "TWBIQ Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "BMAH",
+    "name": "BMAH Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "CQPOR",
+    "name": "CQPOR Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "VWOD",
+    "name": "VWOD Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "EFB",
+    "name": "EFB Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "RIWW",
+    "name": "RIWW Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "RBMDS",
+    "name": "RBMDS Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "AIWY",
+    "name": "AIWY Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "XIZKI",
+    "name": "XIZKI Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "BQF",
+    "name": "BQF Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "IXQ",
+    "name": "IXQ Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "HVN",
+    "name": "HVN Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "LHQ",
+    "name": "LHQ Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "AOOL",
+    "name": "AOOL Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "KGQVA",
+    "name": "KGQVA Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "AWVFL",
+    "name": "AWVFL Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "DNVRU",
+    "name": "DNVRU Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "MDWJ",
+    "name": "MDWJ Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "PUGZY",
+    "name": "PUGZY Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "ZZKNP",
+    "name": "ZZKNP Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "RHE",
+    "name": "RHE Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "XUMLP",
+    "name": "XUMLP Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "NNPL",
+    "name": "NNPL Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "KDPK",
+    "name": "KDPK Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "ULV",
+    "name": "ULV Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "AAW",
+    "name": "AAW Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "DLB",
+    "name": "DLB Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "HAU",
+    "name": "HAU Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "KOOCO",
+    "name": "KOOCO Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "XJC",
+    "name": "XJC Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "HBU",
+    "name": "HBU Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "MJV",
+    "name": "MJV Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "JGZ",
+    "name": "JGZ Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "XPKWQ",
+    "name": "XPKWQ Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "YFDIG",
+    "name": "YFDIG Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "HIMT",
+    "name": "HIMT Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "XFTMN",
+    "name": "XFTMN Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "CVDEI",
+    "name": "CVDEI Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "AKQ",
+    "name": "AKQ Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "PCRY",
+    "name": "PCRY Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "DMUF",
+    "name": "DMUF Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "ZZV",
+    "name": "ZZV Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "IHBQ",
+    "name": "IHBQ Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "GJK",
+    "name": "GJK Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "XLZ",
+    "name": "XLZ Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "SDO",
+    "name": "SDO Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "CYGLM",
+    "name": "CYGLM Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "NDFK",
+    "name": "NDFK Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "XISVN",
+    "name": "XISVN Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "DHPUL",
+    "name": "DHPUL Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "LIMXX",
+    "name": "LIMXX Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "XUY",
+    "name": "XUY Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "LDV",
+    "name": "LDV Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "QJJF",
+    "name": "QJJF Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "ELU",
+    "name": "ELU Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "MMPOT",
+    "name": "MMPOT Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "VSZV",
+    "name": "VSZV Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "WZUGD",
+    "name": "WZUGD Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "IHEZ",
+    "name": "IHEZ Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "TAS",
+    "name": "TAS Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "ATB",
+    "name": "ATB Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "MJF",
+    "name": "MJF Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "EGMFA",
+    "name": "EGMFA Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "VJONW",
+    "name": "VJONW Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "DGTR",
+    "name": "DGTR Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "VKFRN",
+    "name": "VKFRN Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "KEGUH",
+    "name": "KEGUH Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "UGJ",
+    "name": "UGJ Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "ELX",
+    "name": "ELX Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "VMUAS",
+    "name": "VMUAS Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "ASEXY",
+    "name": "ASEXY Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "AIODV",
+    "name": "AIODV Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "FFR",
+    "name": "FFR Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "QCOHU",
+    "name": "QCOHU Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "MIPAR",
+    "name": "MIPAR Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "SPTLH",
+    "name": "SPTLH Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "HKOPH",
+    "name": "HKOPH Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "SHO",
+    "name": "SHO Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "BCCTK",
+    "name": "BCCTK Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "SPJDP",
+    "name": "SPJDP Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "DJONR",
+    "name": "DJONR Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "FDA",
+    "name": "FDA Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "MPZD",
+    "name": "MPZD Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "JNR",
+    "name": "JNR Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "HDHN",
+    "name": "HDHN Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "HOG",
+    "name": "HOG Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "WBC",
+    "name": "WBC Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "JYA",
+    "name": "JYA Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "NPP",
+    "name": "NPP Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "XCJAX",
+    "name": "XCJAX Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "SWO",
+    "name": "SWO Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "JDH",
+    "name": "JDH Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "OSU",
+    "name": "OSU Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "VQQBH",
+    "name": "VQQBH Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "GCBG",
+    "name": "GCBG Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "LDMK",
+    "name": "LDMK Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "RYLX",
+    "name": "RYLX Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "BYQS",
+    "name": "BYQS Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "JOZK",
+    "name": "JOZK Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "YMSOV",
+    "name": "YMSOV Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "WUL",
+    "name": "WUL Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "AIMX",
+    "name": "AIMX Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "ORI",
+    "name": "ORI Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "HMDVB",
+    "name": "HMDVB Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "IXET",
+    "name": "IXET Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "VMOT",
+    "name": "VMOT Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "PXZ",
+    "name": "PXZ Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "GRC",
+    "name": "GRC Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "WUP",
+    "name": "WUP Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "OLF",
+    "name": "OLF Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "YXU",
+    "name": "YXU Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "BDGKH",
+    "name": "BDGKH Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "CRO",
+    "name": "CRO Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "HBKB",
+    "name": "HBKB Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "BZKDX",
+    "name": "BZKDX Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "HFIAI",
+    "name": "HFIAI Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "RAJ",
+    "name": "RAJ Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "EJVYJ",
+    "name": "EJVYJ Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "WEM",
+    "name": "WEM Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "SQKQW",
+    "name": "SQKQW Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "NYOO",
+    "name": "NYOO Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "COGA",
+    "name": "COGA Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "AEN",
+    "name": "AEN Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "BZKM",
+    "name": "BZKM Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "NCTNG",
+    "name": "NCTNG Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "KYA",
+    "name": "KYA Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "VTR",
+    "name": "VTR Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "JQBJU",
+    "name": "JQBJU Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "RZKE",
+    "name": "RZKE Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "LFKPR",
+    "name": "LFKPR Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "ACT",
+    "name": "ACT Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "PLFY",
+    "name": "PLFY Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "YON",
+    "name": "YON Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "YOX",
+    "name": "YOX Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "HTD",
+    "name": "HTD Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "TIZC",
+    "name": "TIZC Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "SNA",
+    "name": "SNA Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "HAKFE",
+    "name": "HAKFE Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "VGIQ",
+    "name": "VGIQ Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "FJDZ",
+    "name": "FJDZ Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "PPU",
+    "name": "PPU Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "WAM",
+    "name": "WAM Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "TDXM",
+    "name": "TDXM Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "XPAN",
+    "name": "XPAN Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "MYEA",
+    "name": "MYEA Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "IYCW",
+    "name": "IYCW Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "ASPZD",
+    "name": "ASPZD Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "UVT",
+    "name": "UVT Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "PMW",
+    "name": "PMW Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "XDW",
+    "name": "XDW Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "UMUC",
+    "name": "UMUC Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "AJEE",
+    "name": "AJEE Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "WLXZ",
+    "name": "WLXZ Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "LXCF",
+    "name": "LXCF Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "HFB",
+    "name": "HFB Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "WYEDA",
+    "name": "WYEDA Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "YGYJD",
+    "name": "YGYJD Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "LOG",
+    "name": "LOG Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "ZWVN",
+    "name": "ZWVN Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "WEQP",
+    "name": "WEQP Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "DBI",
+    "name": "DBI Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "NNJHD",
+    "name": "NNJHD Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "BFFU",
+    "name": "BFFU Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "YCDRE",
+    "name": "YCDRE Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "RITNC",
+    "name": "RITNC Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "KBHVV",
+    "name": "KBHVV Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "HDU",
+    "name": "HDU Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "IWSL",
+    "name": "IWSL Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "WZEH",
+    "name": "WZEH Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "IKVD",
+    "name": "IKVD Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "KVKKM",
+    "name": "KVKKM Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "ETBIB",
+    "name": "ETBIB Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "LFD",
+    "name": "LFD Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "RWH",
+    "name": "RWH Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "WDK",
+    "name": "WDK Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "FUHA",
+    "name": "FUHA Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "PTX",
+    "name": "PTX Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "VUK",
+    "name": "VUK Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "JLJSS",
+    "name": "JLJSS Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "MKTLG",
+    "name": "MKTLG Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "PLES",
+    "name": "PLES Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "CMU",
+    "name": "CMU Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "KDUHP",
+    "name": "KDUHP Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "JPX",
+    "name": "JPX Asset",
+    "type": "stock"
+  },
+  {
+    "symbol": "UPRSS",
+    "name": "UPRSS Asset",
+    "type": "crypto"
+  },
+  {
+    "symbol": "IQQ",
+    "name": "IQQ Asset",
+    "type": "crypto"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "total": {
+    "positive": 40,
+    "neutral": 35,
+    "negative": 25
+  },
+  "sources": {
+    "twitter": { "positive": 42, "neutral": 33, "negative": 25 },
+    "reddit":  { "positive": 38, "neutral": 36, "negative": 26 },
+    "facebook":{ "positive": 35, "neutral": 40, "negative": 25 },
+    "yahoo":   { "positive": 45, "neutral": 34, "negative": 21 }
+  }
+}

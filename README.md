@@ -1,8 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Market Pulse AI – an example landing + live sentiment preview built with Next.js 16, Tailwind CSS v4 and shadcn-style components (Button, Card, Progress). It consumes static JSON datasets in `lib/` for pricing tiers, sentiment distribution, assets, and a sample price trend chart.
 
 ## Getting Started
 
-First, run the development server:
+Install dependencies (if you just cloned and have no modules yet):
+
+```bash
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
@@ -16,21 +22,29 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Key files to explore:
+
+- `app/page.tsx` – assembles `Navbar`, `Hero`, `SentimentPreview`, `PricingSection`.
+- `components/ui/*` – lightweight shadcn-inspired primitives.
+- `components/sentiment-preview.tsx` – SVG line chart + sentiment bars.
+- `lib/*.json` – data sources (sentiment, price, plans, assets).
+
+No external charting lib is used; the line chart path is generated manually for clarity and zero overhead.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## Customization
 
-To learn more about Next.js, take a look at the following resources:
+- Add more UI primitives following the pattern in `components/ui/button.tsx`.
+- Replace static JSON with API calls or a database when ready.
+- Enhance the chart using a library like `recharts` or `visx` for richer visuals.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Next Steps
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Add authentication for Sign Up / Sign In buttons.
+2. Integrate real-time sentiment streaming (WebSockets or polling API).
+3. Expand pricing features & connect to a billing provider.
 
-## Deploy on Vercel
+## License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Educational / example use. Adapt freely within your project.
