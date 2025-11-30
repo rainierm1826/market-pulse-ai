@@ -16,6 +16,8 @@ export default function SettingsPage() {
   const [ready, setReady] = React.useState(false);
   const [renewalDate, setRenewalDate] = React.useState<string>("");
   const [usage, setUsage] = React.useState<{ searchesToday: number; watchlistCount: number }>({ searchesToday: 0, watchlistCount: 0 });
+  const [apiKey, setApiKey] = React.useState<string>("");
+  const [showKey, setShowKey] = React.useState<boolean>(false);
   const plan = (user?.subscription || "").toLowerCase();
   const isFree = plan === "free";
   // const isPro = plan === "pro";
@@ -45,9 +47,42 @@ export default function SettingsPage() {
         }
       } catch {}
       setUsage({ searchesToday: isFree ? 1 : 10, watchlistCount: wlCount });
+      // load API key if any
+      const keyName = parsed?.email ? `mp_api_key_${parsed.email}` : "";
+      if (keyName) {
+        try { const k = localStorage.getItem(keyName); if (k) setApiKey(k); } catch {}
+      }
     } catch { router.replace("/signin"); return; }
     setReady(true);
   }, [router, isFree]);
+
+  function randomKey(len = 32): string {
+    const bytes = new Uint8Array(len);
+    if (typeof crypto !== "undefined" && crypto.getRandomValues) {
+      crypto.getRandomValues(bytes);
+    } else {
+      for (let i = 0; i < len; i++) bytes[i] = Math.floor(Math.random() * 256);
+    }
+    const hex = Array.from(bytes).map(b => b.toString(16).padStart(2, "0")).join("");
+    return `mp_live_${hex.slice(0, len * 2)}`;
+  }
+
+  function persistKey(next: string) {
+    if (!user?.email) return;
+    try { localStorage.setItem(`mp_api_key_${user.email}`, next); } catch {}
+    setApiKey(next);
+  }
+
+  function handleGenerate() {
+    const key = randomKey(24);
+    persistKey(key);
+  }
+
+  function handleRotate() { handleGenerate(); }
+
+  async function handleCopy() {
+    try { await navigator.clipboard.writeText(apiKey); } catch {}
+  }
 
   if (!ready) {
     return (
@@ -162,10 +197,23 @@ export default function SettingsPage() {
               <div>
                 <div className="flex items-center justify-between">
                   <span className="text-muted-foreground">Primary Key</span>
-                  <span className="text-xs text-muted-foreground">No key generated</span>
+                  {apiKey ? (
+                    <code className="rounded bg-muted px-2 py-1 text-xs">
+                      {showKey ? apiKey : `${apiKey.slice(0, 8)}••••••••••••${apiKey.slice(-4)}`}
+                    </code>
+                  ) : (
+                    <span className="text-xs text-muted-foreground">No key generated</span>
+                  )}
                 </div>
                 <div className="flex items-center justify-end gap-2 mt-2">
-                  <Button onClick={() => alert("Key generation not implemented")}>Generate</Button>
+                  {!apiKey && <Button onClick={handleGenerate}>Generate</Button>}
+                  {apiKey && (
+                    <>
+                      <Button variant="outline" onClick={() => setShowKey(v => !v)}>{showKey ? "Hide" : "Reveal"}</Button>
+                      <Button variant="outline" onClick={handleCopy}>Copy</Button>
+                      <Button onClick={handleRotate}>Rotate</Button>
+                    </>
+                  )}
                 </div>
               </div>
             ) : (

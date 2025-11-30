@@ -16,6 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Market Pulse AI – Real-Time Market Sentiment",
   description: "AI-powered sentiment and pricing analytics for crypto & stocks.",
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({
@@ -52,7 +55,7 @@ export default function RootLayout({
                 dragAndDrop: true,
                 iconColor: 'white',
                 customIconSrc: '/chatbotLogo.png',
-                autoWindowOpen: { autoOpen: true, openDelay: 2, autoOpenOnMobile: false }
+                autoWindowOpen: { autoOpen: false, openDelay: 2, autoOpenOnMobile: false }
               },
               customCSS: '.lite-badge, #lite-badge { display: none !important; visibility: hidden !important; height:0 !important; } span.w-full.text-center[class*="px-"][class*="pt-"][class*="pb-"][class*="m-auto"] { display:none !important; } .flowise-chat-window, .flowise-chatbot-window { padding-bottom: 24px !important; }',
               chatWindow: {
