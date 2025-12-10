@@ -20,11 +20,13 @@ export default function SettingsPage() {
   const [showKey, setShowKey] = React.useState<boolean>(false);
   const plan = (user?.subscription || "").toLowerCase();
   const isFree = plan === "free";
-  // const isPro = plan === "pro";
+  const isPro = plan === "pro";
   const isPremium = plan === "premium";
-  // Usage caps (mock). Free has limits, Pro/Premium are effectively unlimited.
-  const FREE_SEARCH_LIMIT = 5;
-  const FREE_WATCHLIST_LIMIT = 5;
+  // Usage caps aligned to `lib/plans.json`.
+  const FREE_SEARCH_LIMIT = 3;
+  // Free users have no watchlist
+  // Note: using conditional UI instead of numeric limit
+  const PRO_WATCHLIST_LIMIT = 20;
 
   React.useEffect(() => {
     const raw = typeof window !== "undefined" ? localStorage.getItem("mp_user") : null;
@@ -128,6 +130,17 @@ export default function SettingsPage() {
             <CardTitle>Usage</CardTitle>
           </CardHeader>
           <CardContent className="space-y-6 text-sm">
+            <div className="text-xs text-muted-foreground">
+              {isFree && (
+                <span>Free plan: 3 searches/day, no watchlist.</span>
+              )}
+              {isPro && (
+                <span>Pro plan: Unlimited searches, watchlist up to 20.</span>
+              )}
+              {isPremium && (
+                <span>Premium plan: Unlimited searches and watchlist.</span>
+              )}
+            </div>
             <div>
               <div className="mb-2 flex items-center justify-between">
                 <span className="text-muted-foreground">Sentiment searches today</span>
@@ -147,15 +160,23 @@ export default function SettingsPage() {
             <div>
               <div className="mb-2 flex items-center justify-between">
                 <span className="text-muted-foreground">Watchlist count</span>
-                {isFree ? (
-                  <span className="text-xs text-muted-foreground">{usage.watchlistCount} / {FREE_WATCHLIST_LIMIT}</span>
-                ) : (
+                {isFree && (
+                  <span className="text-xs text-muted-foreground">No watchlist on Free</span>
+                )}
+                {isPro && (
+                  <span className="text-xs text-muted-foreground">{usage.watchlistCount} / {PRO_WATCHLIST_LIMIT}</span>
+                )}
+                {isPremium && (
                   <span className="text-xs text-muted-foreground">Unlimited</span>
                 )}
               </div>
-              {isFree ? (
-                <Slider value={[Math.min(usage.watchlistCount, FREE_WATCHLIST_LIMIT)]} max={FREE_WATCHLIST_LIMIT} disabled className="w-full" />
-              ) : (
+              {isFree && (
+                <Slider value={[0]} max={1} disabled className="w-full" />
+              )}
+              {isPro && (
+                <Slider value={[Math.min(usage.watchlistCount, PRO_WATCHLIST_LIMIT)]} max={PRO_WATCHLIST_LIMIT} disabled className="w-full" />
+              )}
+              {isPremium && (
                 <Slider value={[0]} max={1} disabled className="w-full" />
               )}
             </div>
